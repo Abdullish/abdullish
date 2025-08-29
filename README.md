@@ -61,9 +61,7 @@ A Passionate Junior **Cloud/DevOps Engineer** from Nigeria
 - ✍️ [Medium](https://medium.com/@ymencubed)  
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullish&label=Profile%20views&color=0e75b6&style=flat" alt="abdullish" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue&initial=33" alt="profile views"/>
-</p>
 
 
