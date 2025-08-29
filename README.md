@@ -63,5 +63,6 @@ A Passionate Junior **Cloud/DevOps Engineer** from Nigeria
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue&initial=37" alt="profile views"/>
 </p>
+
