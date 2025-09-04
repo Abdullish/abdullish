@@ -58,7 +58,7 @@ A Passionate Junior **Cloud/DevOps Engineer** from Nigeria
 
 - 📧 Email: mencubed@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulrahmansulaimanu/)  
-- ✍️ [Medium](https://medium.com/@ymencubed)  
+- ✍️ [Medium](https://medium.com/@mencubed)  
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullish&label=Profile%20views&color=0e75b6&style=flat" alt="abdullish" /> </p>
